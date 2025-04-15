@@ -4,7 +4,7 @@ This repository contains various implementations of AI agents and RAG (Retrieval
 
 ## Project Structure
 
-- `chatbot_rag_langgraph.ipynb` - Implementation of a RAG-based chatbot using LangGraph
+- `chatbot_rag_langgraph.ipynb` - Implementation of a RAG-based and human in loop chatbot using LangGraph
 - `ragagents-ipynb.ipynb` - RAG agents implementation 
 - `smolagents.ipynb` - Implementation using SmalAgents framework
 
